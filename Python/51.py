@@ -78,3 +78,4 @@ def summarize_orders(data):
 # Call and print result
 result = summarize_orders(orders_data)
 print(result)
+#comment
